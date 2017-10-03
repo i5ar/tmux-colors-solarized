@@ -1,4 +1,7 @@
-# Solarize color theme tmux configuration
+# Agnoster Tmux theme
+
+**NOTE:** This fork is inspired by Agnoster
+(require a [Powerline](https://github.com/powerline/fonts) or a [Nerd](https://github.com/ryanoasis/nerd-fonts) font).
 
 A tmux solarized theme using Ethan Schoonover’s [Solarized color scheme](http://ethanschoonover.com/solarized).
 
